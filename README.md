@@ -6,13 +6,13 @@ Solucionador de sudoku feito em python usando o algoritmo de Backtracking
 
 - python3
 
-### Run
+## Run
 
 Para fazer o programa rodar você deve usar o seguinte comando no terminal
 
 `~ $ python3 sudoku.py`
 
-#### Config
+## Config
 
 Para mudar os valores da tabela do sudoku a ser resolvido você precisa modificar o arquivo sudoku.py na seguinte parte do código.
 
